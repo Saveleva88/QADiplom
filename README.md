@@ -5,8 +5,8 @@ ___
 ### Документация по проекту
 
 1. [План тестирования](https://github.com/Saveleva88/QADiplom/blob/master/Plan.md)
-2. [Отчет по итогам автоматизированного тестирования]()
-3. [Отчет по итогам автоматизации]()
+2. [Отчет по итогам автоматизированного тестирования](https://github.com/Saveleva88/QADiplom/blob/master/Report.md)
+3. [Отчет по итогам автоматизации](https://github.com/Saveleva88/QADiplom/blob/master/Summary.md)
 
 ### Запуск приложения
 
