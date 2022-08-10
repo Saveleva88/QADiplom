@@ -6,6 +6,6 @@ ___
 * Всего тестов - 68
 * Успешных - 27 (39,7%) / не успешных - 41 (60,29%)
 
-![](C:\Users\Fosa\IdeaProjects\QADiplom\img\Screenshot_13.png)
+![img/Screenshot_13.png](img/Screenshot_13.png)
 
 По результатам проведённого тестирования сформированы баг-репорты (см. GitHub Issues).
