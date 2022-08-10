@@ -8,7 +8,5 @@ ___
 
 Скриншот отчёта Allure
 
-<img src="C:\Users\Fosa\Desktop\Скрины\Screenshot_13.png"/>
-
-
+![](C:\Users\Fosa\Desktop\Скрины\Screenshot_13.png)
 По результатам проведённого тестирования сформированы баг-репорты (см. GitHub Issues).
